@@ -1,0 +1,21 @@
+.Search-tab
+{
+    background: #eceff1/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+    
+    padding: 5px;
+    justify-content: center;
+
+}
+.ApiCallDesign
+{
+    padding: 10px;
+    transition: all ease-in 2000ms
+}
+.Pagination
+{
+
+}
+.HidePage
+{
+    display: none;
+}

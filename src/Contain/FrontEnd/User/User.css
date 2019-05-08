@@ -1,0 +1,19 @@
+
+.outerclass
+{
+    padding-top:10px;
+}
+
+.buttonspecs{
+    
+}
+.usermodify:hover
+{
+    box-shadow: 3px 3px 26px 2px #FFE3EE inset;
+}
+.usermodify:hover .buttonspecs:hover
+{
+    box-shadow: 3px 3px 26px 2px #FFE3EE inset;/* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+    visibility: visible;
+
+}
